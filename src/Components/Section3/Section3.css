@@ -1,0 +1,12 @@
+iframe, video {
+    display: block;
+    margin: 1em auto;
+    width: 80%;
+    min-height: 300px;
+    max-width: 800px;
+    min-width: 320px;
+}
+.title-section-3 {
+    margin-top: 50px;
+    
+}

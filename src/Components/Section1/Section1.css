@@ -1,0 +1,37 @@
+.mycard{
+    background-color: #252B42;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.mycard p {
+    opacity: 0.8;
+    font-size: 15px;
+}
+.head-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+ .heading {
+     font-size: 4rem;
+     font-weight: bold;
+     line-height: 1.4;
+     text-align: center;
+     color: white;
+     width: 100%;
+     max-width: 800px;
+     margin-top: 100px;
+     min-height: 100px;
+}
+.paragraph1 {
+    color: white;
+    line-height: 1.5;
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+    max-width: 500px;
+    margin-bottom: 40px;
+
+}

@@ -1,0 +1,22 @@
+.section-5 .card{
+    background-color: white;
+    box-shadow: 0 20px 10px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.5s ease;
+    color: #b1b4bd;
+   
+}
+.section-5 .card:hover{
+    background-color:#23A6F0;
+    color: white;
+    transform: scale(1.2);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
+.section-5 .card:hover .btn {
+    background-color: white;
+    color:#23A6F0;
+}
+.section-5 .card:hover .text {
+    background-color:#23A6F0;
+    color: white;
+}

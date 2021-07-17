@@ -1,0 +1,31 @@
+footer {
+    min-height: 400px;
+}
+.footer-header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer h5 {
+    color: white;
+    font-weight: 600;
+}
+footer .footer-list {
+    text-decoration: none !important;
+    padding-left: 7px;
+    padding-top: 10px;
+}
+footer .footer-list li {
+    list-style-type: none;
+    text-decoration: none !important;
+    margin-bottom: 15px;
+}
+footer .footer-list li a{
+    text-decoration: none !important;
+    font-size: 15px;
+    color: white;
+}
+
+footer p {
+    font-size: 15px;
+    color: #b1b4bd;
+}
